@@ -1,4 +1,4 @@
-package com.example.tapcaf
+package com.example.tapecafe
 
 import org.junit.Test
 

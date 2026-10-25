@@ -1,4 +1,4 @@
-package com.example.tapcaf.ui.theme
+package com.example.tapecafe.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

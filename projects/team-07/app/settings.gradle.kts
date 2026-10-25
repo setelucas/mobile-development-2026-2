@@ -22,6 +22,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "TapCafé"
+rootProject.name = "TapeCafe"
 include(":app")
- 
